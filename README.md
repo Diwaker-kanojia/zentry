@@ -5,7 +5,7 @@ The site introduces the **Zentry ecosystem**, which aims to **unify digital and 
 
 ## 🚀 Live Demo  
 
-🔗 [View Live Project Here](https://your-zentry-nexus.netlify.app/) 
+🔗 [View Live Project Here](https://zentry-nexus.netlify.app/) 
 
 ## 📸 Screenshots  
 
